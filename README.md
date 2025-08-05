@@ -1,13 +1,6 @@
 👋 Hi there! I’m Jehad Abdallah — but you can call me Jamil🖤 <br/>
 💻 I'm a passionate Web Developer who loves building clean, modern, and user-friendly websites. <br/>
 🌍 Based in 🇹🇿 Tanzania | 🔭 Currently crafting awesome UI/UX experiences <br/>
-🎯 Focused on: <br/>
-
-💡 Frontend: HTML, CSS, JavaScript, React, TailwindCSS <br/>
-
-🧠 Backend: Node.js, Express, MySQL, MongoDB <br/>
-
-⚙️ Tools: Git, GitHub, VS Code, Figma <br/>
 
 📫 Let’s connect: <br/>
    | 📷 Instagram -- https://www.instagram.com/tranquil_him?igsh=Zm03Nm5qemhkN3hv&utm_source=qr <br/>
